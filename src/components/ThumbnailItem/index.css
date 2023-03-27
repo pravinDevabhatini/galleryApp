@@ -1,0 +1,11 @@
+/* Write your code here. */
+
+.list-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn-bg {
+  background-color: transparent;
+  border-style: none;
+}

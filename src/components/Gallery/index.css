@@ -1,0 +1,16 @@
+/* Write your code here. */
+.images-list {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.app-container {
+  padding: 20px;
+  justify-content: flex-start;
+}
+
+.display-image {
+  width: 300px;
+  height: 300px;
+}
